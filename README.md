@@ -18,4 +18,4 @@
 
 </div>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=blue8959)](https://solved.ac/blue8959/) ![HSOOJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=HSOOJ&show_icons=true)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=blue8959)](https://solved.ac/blue8959/)![HSOOJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=HSOOJ&show_icons=true)
